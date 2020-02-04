@@ -1,11 +1,9 @@
 ﻿spring:
   application:
     name: more-17shop-eureka-dev
-  profiles:
-    active: dev
+  profiles: dev
 ---
 spring:
   application:
     name: more-17shop-eureka-test
-  profiles:
-    active: test
+  profiles: test
