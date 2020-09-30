@@ -7,4 +7,3 @@ spring:
   application:
     name: more-17shop-eureka-test
   profiles: test
-spring.datasource:mysql
